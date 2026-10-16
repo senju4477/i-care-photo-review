@@ -1,0 +1,433 @@
+{
+  "about.webp": {
+    "width": 1280,
+    "height": 1920,
+    "variants": [
+      {
+        "file": "about-640.webp",
+        "width": 640
+      },
+      {
+        "file": "about-960.webp",
+        "width": 960
+      },
+      {
+        "file": "about.webp",
+        "width": 1280
+      },
+      {
+        "file": "about-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 18%",
+    "alt": "A woman and a man using a wheelchair sharing a conversation by a park bench"
+  },
+  "accessible-path.webp": {
+    "width": 1280,
+    "height": 854,
+    "variants": [
+      {
+        "file": "accessible-path-640.webp",
+        "width": 640
+      },
+      {
+        "file": "accessible-path-960.webp",
+        "width": 960
+      },
+      {
+        "file": "accessible-path.webp",
+        "width": 1280
+      },
+      {
+        "file": "accessible-path-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 60%",
+    "alt": "A person using a white cane to walk along a leafy park path"
+  },
+  "community-life.webp": {
+    "width": 1280,
+    "height": 855,
+    "variants": [
+      {
+        "file": "community-life-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-life-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community-life.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-life-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 40%",
+    "alt": "A group of friends, including a wheelchair user, spending time together outdoors"
+  },
+  "community-projects.webp": {
+    "width": 1280,
+    "height": 1820,
+    "variants": [
+      {
+        "file": "community-projects-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-projects-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community-projects.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-projects-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 40%",
+    "alt": "A group of friends, including a wheelchair user, taking a photograph together"
+  },
+  "community.webp": {
+    "width": 1280,
+    "height": 1920,
+    "variants": [
+      {
+        "file": "community-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 25%",
+    "alt": "Two people reading a book together on a park bench, including a wheelchair user"
+  },
+  "creative.webp": {
+    "width": 1280,
+    "height": 853,
+    "variants": [
+      {
+        "file": "creative-640.webp",
+        "width": 640
+      },
+      {
+        "file": "creative-960.webp",
+        "width": 960
+      },
+      {
+        "file": "creative.webp",
+        "width": 1280
+      },
+      {
+        "file": "creative-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 28%",
+    "alt": "Two adults painting together at an easel"
+  },
+  "daily-living.webp": {
+    "width": 1280,
+    "height": 853,
+    "variants": [
+      {
+        "file": "daily-living-640.webp",
+        "width": 640
+      },
+      {
+        "file": "daily-living-960.webp",
+        "width": 960
+      },
+      {
+        "file": "daily-living.webp",
+        "width": 1280
+      },
+      {
+        "file": "daily-living-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "85% 50%",
+    "alt": "A woman using a wheelchair in a bright kitchen and living space"
+  },
+  "employment.webp": {
+    "width": 1280,
+    "height": 854,
+    "variants": [
+      {
+        "file": "employment-640.webp",
+        "width": 640
+      },
+      {
+        "file": "employment-960.webp",
+        "width": 960
+      },
+      {
+        "file": "employment.webp",
+        "width": 1280
+      },
+      {
+        "file": "employment-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "55% 38%",
+    "alt": "A woman using a wheelchair working on a laptop at an office desk"
+  },
+  "family-support.webp": {
+    "width": 1280,
+    "height": 854,
+    "variants": [
+      {
+        "file": "family-support-640.webp",
+        "width": 640
+      },
+      {
+        "file": "family-support-960.webp",
+        "width": 960
+      },
+      {
+        "file": "family-support.webp",
+        "width": 1280
+      },
+      {
+        "file": "family-support-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 45%",
+    "alt": "Two people sharing a hug outdoors, including a wheelchair user"
+  },
+  "getting-around.webp": {
+    "width": 1280,
+    "height": 854,
+    "variants": [
+      {
+        "file": "getting-around-640.webp",
+        "width": 640
+      },
+      {
+        "file": "getting-around-960.webp",
+        "width": 960
+      },
+      {
+        "file": "getting-around.webp",
+        "width": 1280
+      },
+      {
+        "file": "getting-around-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 55%",
+    "alt": "Two adults using wheelchairs travelling together along a park path"
+  },
+  "hero.webp": {
+    "width": 1440,
+    "height": 960,
+    "variants": [
+      {
+        "file": "hero-640.webp",
+        "width": 640
+      },
+      {
+        "file": "hero-960.webp",
+        "width": 960
+      },
+      {
+        "file": "hero.webp",
+        "width": 1440
+      },
+      {
+        "file": "hero-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 50%"
+  },
+  "household.webp": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "file": "household-640.webp",
+        "width": 640
+      },
+      {
+        "file": "household-960.webp",
+        "width": 960
+      },
+      {
+        "file": "household.webp",
+        "width": 1280
+      },
+      {
+        "file": "household-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "60% 10%",
+    "alt": "A woman using an electric hob in a kitchen"
+  },
+  "next-steps.webp": {
+    "width": 1280,
+    "height": 2276,
+    "variants": [
+      {
+        "file": "next-steps-640.webp",
+        "width": 640
+      },
+      {
+        "file": "next-steps-960.webp",
+        "width": 960
+      },
+      {
+        "file": "next-steps.webp",
+        "width": 1280
+      },
+      {
+        "file": "next-steps-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 18%",
+    "alt": "A woman using a wheelchair writing in a notebook at a table"
+  },
+  "outdoors.webp": {
+    "width": 1280,
+    "height": 1920,
+    "variants": [
+      {
+        "file": "outdoors-640.webp",
+        "width": 640
+      },
+      {
+        "file": "outdoors-960.webp",
+        "width": 960
+      },
+      {
+        "file": "outdoors.webp",
+        "width": 1280
+      },
+      {
+        "file": "outdoors-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 20%",
+    "alt": "Two adults talking together outdoors, including a wheelchair user"
+  },
+  "personal-care.webp": {
+    "width": 1280,
+    "height": 853,
+    "variants": [
+      {
+        "file": "personal-care-640.webp",
+        "width": 640
+      },
+      {
+        "file": "personal-care-960.webp",
+        "width": 960
+      },
+      {
+        "file": "personal-care.webp",
+        "width": 1280
+      },
+      {
+        "file": "personal-care-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "65% 38%",
+    "alt": "A woman assisting another woman with personal grooming at home"
+  },
+  "planning.webp": {
+    "width": 1280,
+    "height": 1920,
+    "variants": [
+      {
+        "file": "planning-640.webp",
+        "width": 640
+      },
+      {
+        "file": "planning-960.webp",
+        "width": 960
+      },
+      {
+        "file": "planning.webp",
+        "width": 1280
+      },
+      {
+        "file": "planning-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 25%",
+    "alt": "Two adults reviewing paperwork and information together at a table"
+  },
+  "skills.webp": {
+    "width": 1280,
+    "height": 719,
+    "variants": [
+      {
+        "file": "skills-640.webp",
+        "width": 640
+      },
+      {
+        "file": "skills-960.webp",
+        "width": 960
+      },
+      {
+        "file": "skills.webp",
+        "width": 1280
+      },
+      {
+        "file": "skills-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "45% 35%",
+    "alt": "A woman using a wheelchair preparing vegetables in a kitchen"
+  },
+  "support-conversation.webp": {
+    "width": 1280,
+    "height": 1920,
+    "variants": [
+      {
+        "file": "support-conversation-640.webp",
+        "width": 640
+      },
+      {
+        "file": "support-conversation-960.webp",
+        "width": 960
+      },
+      {
+        "file": "support-conversation.webp",
+        "width": 1280
+      },
+      {
+        "file": "support-conversation-1920.webp",
+        "width": 1920
+      }
+    ],
+    "position": "50% 40%",
+    "alt": "Two adults sharing a conversation at a cafe table, including a wheelchair user"
+  }
+}
