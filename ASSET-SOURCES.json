@@ -1,0 +1,514 @@
+{
+  "assets/images/Banner-22.jpg": "https://icgservices.com.au/assets/images/Banner-22.jpg",
+  "assets/images/Banner-23.jpg": "https://icgservices.com.au/assets/images/Banner-23.jpg",
+  "assets/images/Banner-50.jpg": "https://icgservices.com.au/assets/images/Banner-50.jpg",
+  "assets/images/Philosphy.jpg": "https://icgservices.com.au/assets/images/Philosphy.jpg",
+  "assets/images/au-abnormal-flag.png": "https://icgservices.com.au/assets/images/au-abnormal-flag.png",
+  "assets/images/au-flag.png": "https://icgservices.com.au/assets/images/au-flag.png",
+  "assets/images/caring-icon.png": "https://icgservices.com.au/assets/images/caring-icon.png",
+  "assets/images/expert-icon.png": "https://icgservices.com.au/assets/images/expert-icon.png",
+  "assets/images/favicon.png": "https://icgservices.com.au/assets/images/favicon.png",
+  "assets/images/footer-logo.png": "https://icgservices.com.au/assets/images/footer-logo.png",
+  "assets/images/guiding-principles.jpg": "https://icgservices.com.au/assets/images/guiding-principles.jpg",
+  "assets/images/icon/call.svg": "https://icgservices.com.au/assets/images/icon/call.svg",
+  "assets/images/icon/email.svg": "https://icgservices.com.au/assets/images/icon/email.svg",
+  "assets/images/icon/map.svg": "https://icgservices.com.au/assets/images/icon/map.svg",
+  "assets/images/icon/timetable.svg": "https://icgservices.com.au/assets/images/icon/timetable.svg",
+  "assets/images/img-1.jpg": "https://icgservices.com.au/assets/images/img-1.jpg",
+  "assets/images/logo.png": "https://icgservices.com.au/assets/images/logo.png",
+  "assets/images/menu-img-1.jpg": "https://icgservices.com.au/assets/images/menu-img-1.jpg",
+  "assets/images/menu-img-2.jpg": "https://icgservices.com.au/assets/images/menu-img-2.jpg",
+  "assets/images/menu-img-3.jpg": "https://icgservices.com.au/assets/images/menu-img-3.jpg",
+  "assets/images/menu-img-4.jpg": "https://icgservices.com.au/assets/images/menu-img-4.jpg",
+  "assets/images/mission.jpg": "https://icgservices.com.au/assets/images/mission.jpg",
+  "assets/images/ndis-logo.png": "https://icgservices.com.au/assets/images/ndis-logo.png",
+  "assets/images/service/service-img-01.png": "https://icgservices.com.au/assets/images/service/service-img-01.png",
+  "assets/images/service/service-img-02.png": "https://icgservices.com.au/assets/images/service/service-img-02.png",
+  "assets/images/service/service-img-03.png": "https://icgservices.com.au/assets/images/service/service-img-03.png",
+  "assets/images/service/service-img-04.png": "https://icgservices.com.au/assets/images/service/service-img-04.png",
+  "assets/images/service/service-img-05.png": "https://icgservices.com.au/assets/images/service/service-img-05.png",
+  "assets/images/service/service-img-06.png": "https://icgservices.com.au/assets/images/service/service-img-06.png",
+  "assets/images/service/service-img-07.png": "https://icgservices.com.au/assets/images/service/service-img-07.png",
+  "assets/images/service/service-img-08.png": "https://icgservices.com.au/assets/images/service/service-img-08.png",
+  "assets/images/service/service-img-09.png": "https://icgservices.com.au/assets/images/service/service-img-09.png",
+  "assets/images/service/service-img-10.png": "https://icgservices.com.au/assets/images/service/service-img-10.png",
+  "assets/images/service/service-img-11.png": "https://icgservices.com.au/assets/images/service/service-img-11.png",
+  "assets/images/support-icon.png": "https://icgservices.com.au/assets/images/support-icon.png",
+  "assets/images/torres-strait-flag.png": "https://icgservices.com.au/assets/images/torres-strait-flag.png",
+  "assets/images/value.jpg": "https://icgservices.com.au/assets/images/value.jpg",
+  "assets/images/vision.jpg": "https://icgservices.com.au/assets/images/vision.jpg",
+  "public/assets/aboriginal-flag.png": "https://icgservices.com.au/assets/images/au-abnormal-flag.png",
+  "public/assets/torres-strait-islander-flag.png": "https://icgservices.com.au/assets/images/torres-strait-flag.png",
+  "public/assets/ndis-provider-logo.png": "https://icgservices.com.au/assets/images/ndis-logo.png",
+  "public/assets/community-life.webp": {
+    "source": "https://www.pexels.com/photo/8777814/",
+    "sourceFile": "sources/photos/pexels-8777814.jpg",
+    "sourceDimensions": [
+      2560,
+      1709
+    ],
+    "deliveryVariants": [
+      {
+        "file": "community-life-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-life-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community-life.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-life-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/getting-around.webp": {
+    "source": "https://www.pexels.com/photo/31612921/",
+    "sourceFile": "sources/photos/pexels-31612921.jpg",
+    "sourceDimensions": [
+      2560,
+      1707
+    ],
+    "deliveryVariants": [
+      {
+        "file": "getting-around-640.webp",
+        "width": 640
+      },
+      {
+        "file": "getting-around-960.webp",
+        "width": 960
+      },
+      {
+        "file": "getting-around.webp",
+        "width": 1280
+      },
+      {
+        "file": "getting-around-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/support-conversation.webp": {
+    "source": "https://www.pexels.com/photo/7698237/",
+    "sourceFile": "sources/photos/pexels-7698237.jpg",
+    "sourceDimensions": [
+      2560,
+      3840
+    ],
+    "deliveryVariants": [
+      {
+        "file": "support-conversation-640.webp",
+        "width": 640
+      },
+      {
+        "file": "support-conversation-960.webp",
+        "width": 960
+      },
+      {
+        "file": "support-conversation.webp",
+        "width": 1280
+      },
+      {
+        "file": "support-conversation-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/next-steps.webp": {
+    "source": "https://www.pexels.com/photo/7495945/",
+    "sourceFile": "sources/photos/pexels-7495945.jpg",
+    "sourceDimensions": [
+      2099,
+      3732
+    ],
+    "deliveryVariants": [
+      {
+        "file": "next-steps-640.webp",
+        "width": 640
+      },
+      {
+        "file": "next-steps-960.webp",
+        "width": 960
+      },
+      {
+        "file": "next-steps.webp",
+        "width": 1280
+      },
+      {
+        "file": "next-steps-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/family-support.webp": {
+    "source": "https://www.pexels.com/photo/6284830/",
+    "sourceFile": "sources/photos/pexels-6284830.jpg",
+    "sourceDimensions": [
+      2560,
+      1707
+    ],
+    "deliveryVariants": [
+      {
+        "file": "family-support-640.webp",
+        "width": 640
+      },
+      {
+        "file": "family-support-960.webp",
+        "width": 960
+      },
+      {
+        "file": "family-support.webp",
+        "width": 1280
+      },
+      {
+        "file": "family-support-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/accessible-path.webp": {
+    "source": "https://www.pexels.com/photo/8327481/",
+    "sourceFile": "sources/photos/pexels-8327481.jpg",
+    "sourceDimensions": [
+      2560,
+      1707
+    ],
+    "deliveryVariants": [
+      {
+        "file": "accessible-path-640.webp",
+        "width": 640
+      },
+      {
+        "file": "accessible-path-960.webp",
+        "width": 960
+      },
+      {
+        "file": "accessible-path.webp",
+        "width": 1280
+      },
+      {
+        "file": "accessible-path-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/logo.svg": "Native vector outlines reconstructed from the original public/assets/logo.png; original emblem and lettering retained, with a blue-green gradient.",
+  "public/assets/footer-logo.svg": "White native vector version of public/assets/logo.svg, using the same emblem and outlined lettering.",
+  "public/assets/hero.webp": {
+    "source": "https://www.pexels.com/photo/woman-pushing-the-wheelchair-with-a-man-in-the-park-8415675/",
+    "photographer": "SHVETS production",
+    "original": "sources/park-path-original.jpg",
+    "originalDimensions": [
+      6000,
+      4000
+    ],
+    "deliveryVariants": [
+      {
+        "file": "hero-640.webp",
+        "width": 640
+      },
+      {
+        "file": "hero-960.webp",
+        "width": 960
+      },
+      {
+        "file": "hero.webp",
+        "width": 1440
+      },
+      {
+        "file": "hero-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/about.webp": {
+    "source": "https://www.pexels.com/photo/8415858/",
+    "sourceFile": "sources/photos/pexels-8415858.jpg",
+    "sourceDimensions": [
+      4000,
+      6000
+    ],
+    "deliveryVariants": [
+      {
+        "file": "about-640.webp",
+        "width": 640
+      },
+      {
+        "file": "about-960.webp",
+        "width": 960
+      },
+      {
+        "file": "about.webp",
+        "width": 1280
+      },
+      {
+        "file": "about-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/community-projects.webp": {
+    "source": "https://www.pexels.com/photo/3009761/",
+    "sourceFile": "sources/photos/pexels-3009761.jpg",
+    "sourceDimensions": [
+      2560,
+      3639
+    ],
+    "deliveryVariants": [
+      {
+        "file": "community-projects-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-projects-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community-projects.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-projects-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/community.webp": {
+    "source": "https://www.pexels.com/photo/8415852/",
+    "sourceFile": "sources/photos/pexels-8415852.jpg",
+    "sourceDimensions": [
+      2560,
+      3840
+    ],
+    "deliveryVariants": [
+      {
+        "file": "community-640.webp",
+        "width": 640
+      },
+      {
+        "file": "community-960.webp",
+        "width": 960
+      },
+      {
+        "file": "community.webp",
+        "width": 1280
+      },
+      {
+        "file": "community-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/creative.webp": {
+    "source": "https://www.pexels.com/photo/6732372/",
+    "sourceFile": "sources/photos/pexels-6732372.jpg",
+    "sourceDimensions": [
+      2048,
+      1365
+    ],
+    "deliveryVariants": [
+      {
+        "file": "creative-640.webp",
+        "width": 640
+      },
+      {
+        "file": "creative-960.webp",
+        "width": 960
+      },
+      {
+        "file": "creative.webp",
+        "width": 1280
+      },
+      {
+        "file": "creative-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/daily-living.webp": {
+    "source": "https://www.pexels.com/photo/4063495/",
+    "sourceFile": "sources/photos/pexels-4063495.jpg",
+    "sourceDimensions": [
+      2048,
+      1365
+    ],
+    "deliveryVariants": [
+      {
+        "file": "daily-living-640.webp",
+        "width": 640
+      },
+      {
+        "file": "daily-living-960.webp",
+        "width": 960
+      },
+      {
+        "file": "daily-living.webp",
+        "width": 1280
+      },
+      {
+        "file": "daily-living-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/employment.webp": {
+    "source": "https://www.pexels.com/photo/4064024/",
+    "sourceFile": "sources/photos/pexels-4064024.jpg",
+    "sourceDimensions": [
+      2560,
+      1707
+    ],
+    "deliveryVariants": [
+      {
+        "file": "employment-640.webp",
+        "width": 640
+      },
+      {
+        "file": "employment-960.webp",
+        "width": 960
+      },
+      {
+        "file": "employment.webp",
+        "width": 1280
+      },
+      {
+        "file": "employment-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/household.webp": {
+    "source": "https://www.pexels.com/photo/4064644/",
+    "sourceFile": "sources/photos/pexels-4064644.jpg",
+    "sourceDimensions": [
+      2048,
+      1152
+    ],
+    "deliveryVariants": [
+      {
+        "file": "household-640.webp",
+        "width": 640
+      },
+      {
+        "file": "household-960.webp",
+        "width": 960
+      },
+      {
+        "file": "household.webp",
+        "width": 1280
+      },
+      {
+        "file": "household-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/outdoors.webp": {
+    "source": "https://www.pexels.com/photo/8415473/",
+    "sourceFile": "sources/photos/pexels-8415473.jpg",
+    "sourceDimensions": [
+      2560,
+      3840
+    ],
+    "deliveryVariants": [
+      {
+        "file": "outdoors-640.webp",
+        "width": 640
+      },
+      {
+        "file": "outdoors-960.webp",
+        "width": 960
+      },
+      {
+        "file": "outdoors.webp",
+        "width": 1280
+      },
+      {
+        "file": "outdoors-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/personal-care.webp": {
+    "source": "https://www.pexels.com/photo/29372536/",
+    "sourceFile": "sources/photos/pexels-29372536.jpg",
+    "sourceDimensions": [
+      2048,
+      1365
+    ],
+    "deliveryVariants": [
+      {
+        "file": "personal-care-640.webp",
+        "width": 640
+      },
+      {
+        "file": "personal-care-960.webp",
+        "width": 960
+      },
+      {
+        "file": "personal-care.webp",
+        "width": 1280
+      },
+      {
+        "file": "personal-care-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/planning.webp": {
+    "source": "https://www.pexels.com/photo/7971236/",
+    "sourceFile": "sources/photos/pexels-7971236.jpg",
+    "sourceDimensions": [
+      2560,
+      3840
+    ],
+    "deliveryVariants": [
+      {
+        "file": "planning-640.webp",
+        "width": 640
+      },
+      {
+        "file": "planning-960.webp",
+        "width": 960
+      },
+      {
+        "file": "planning.webp",
+        "width": 1280
+      },
+      {
+        "file": "planning-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "public/assets/skills.webp": {
+    "source": "https://www.pexels.com/photo/7495749/",
+    "sourceFile": "sources/photos/pexels-7495749.jpg",
+    "sourceDimensions": [
+      2048,
+      1151
+    ],
+    "deliveryVariants": [
+      {
+        "file": "skills-640.webp",
+        "width": 640
+      },
+      {
+        "file": "skills-960.webp",
+        "width": 960
+      },
+      {
+        "file": "skills.webp",
+        "width": 1280
+      },
+      {
+        "file": "skills-1920.webp",
+        "width": 1920
+      }
+    ]
+  }
+}
